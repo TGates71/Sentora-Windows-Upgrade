@@ -1,0 +1,12 @@
+This software stack is provided by the Sentora project as an easy to install and zero-configuration application server stack containing all the required software to run the Sentora web hosting control panel on top of; the files and application bundled with this installer are subject to their own license restrictions, copies of these licenses can be obtained from the software developers website.
+
+For more infomation about this software, please visit our website at http://www.sentora.org/
+
+The software installed by this installer will require some ports to be opened on your firewall please be aware that if you have any problems running the software that you ensure the following TCP ports are open and accepting connections: 80, 110, 145, 25, 21, 20, 53 (&UDP).
+
+Please ensure that if you are already running another web server such as Microsoft(R) IIS, Wampserver, Xampp or another instance of MySQL, an FTP Server or a Mail server please cancel this install now and first disable your current services before running this installer again, by continuing and not stopping/uninstalling any already running services may cause serious problems after you reboot your server.
+
+On behalf of the Sentora project, we thank you for using our product and hope to meet you on the forums soon.
+
+Thanks,
+The Sentora Development Team

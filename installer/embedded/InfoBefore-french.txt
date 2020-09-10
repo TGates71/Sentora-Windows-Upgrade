@@ -1,0 +1,12 @@
+Cette pile logicielle est fournie par le projet Sentora comme une pile de serveur d'applications facile à installer et à configurer depuis zéro contenant tous les logiciels requis pour exécuter le panneau de contrôle de l'accès Web Sentora par-dessus; les fichiers et les applications fournis avec ce programme d'installation sont soumis à leurs propres restrictions de licence, des copies de ces licences peuvent être obtenues sur le site Web des développeurs de logiciels.
+
+Pour plus d'informations sur ce logiciel, veuillez visiter notre site Web http://www.sentora.org/
+
+Le logiciel installé par ce programme d'installation nécessitera l'ouverture de certains ports sur votre pare-feu, sachez que si vous rencontrez des problèmes lors de l'exécution du logiciel, assurez-vous que les ports TCP suivants sont ouverts et acceptent les connexions: 80, 110, 145, 25, 21 , 20, 53 (& UDP).
+
+Veuillez vous assurer que si vous utilisez déjà un autre serveur Web tel que Microsoft (R) IIS, Wampserver, Xampp ou une autre instance de MySQL, un serveur FTP ou un serveur de messagerie, veuillez annuler cette installation maintenant et désactiver d'abord vos services actuels avant d'exécuter ce programme d'installation encore une fois, en continuant et en n'arrêtant/désinstallant aucun service déjà en cours d'exécution, cela peut entraîner de graves problèmes après le redémarrage de votre serveur.
+
+Au nom du projet Sentora, nous vous remercions d'utiliser notre produit et espérons vous rencontrer bientôt sur les forums.
+
+Merci,
+The Sentora Development Team
