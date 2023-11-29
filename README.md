@@ -1,4 +1,4 @@
-# Sentora-Windows-Install-and-Upgrade
+# Sentora-Windows-Install-and-Upgrade - No longer maintained or supported
 This project is designed install or upgrade Sentora 1.0.3 for Windows
 
 for the update it can work with ZPanel 10.0.2 or 10.1.1 or Sentora for Windows 1.0.0 MarkDark Version
